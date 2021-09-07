@@ -1,0 +1,10 @@
+test
+
+git add
+
+git commit -m ""
+
+git config --global user.email dlthf727@gmail.com
+git config --global user.name "solleepang"
+
+git push
